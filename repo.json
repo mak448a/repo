@@ -1,0 +1,55 @@
+{
+    "name": "mak448a's Source",
+    "subtitle": "Apps from their original sources!",
+    "description": "A source with many apps!",
+    "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icon.png",
+    "headerURL": "https://raw.githubusercontent.com/mak448a/repo/main/icon.png",
+    "website": "https://mak448a.is-a.dev",
+    "tintColor": "#45f7a4",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "AppStore++",
+            "bundleIdentifier": "com.cokepokes.AppStorePlus",
+            "developerName": "CokePokes",
+            "subtitle": "Downgrade/Upgrade apps!",
+            "localizedDescription": "Downgrade/Upgrade apps!",
+            "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/AppStorePlusPlus.jpg",
+            "tintColor": "#45f7a4",
+            "screenshotURLs": [],
+            "versions": [
+                {
+                  "version": "1.0.3",
+                  "date": "2022-9-22",
+                  "localizedDescription": "Changes: Ability to download AppStore++ updates to install in TrollStore",
+                  "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "TrollLEDs",
+            "bundleIdentifier": "com.ps.TrollLEDs",
+            "developerName": "PoomSmart",
+            "subtitle": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
+            "localizedDescription": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
+            "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/TrollLEDs.png",
+            "tintColor": "#45f7a4",
+            "screenshotURLs": [],
+            "versions": [
+                {
+                  "version": "1.8.0",
+                  "date": "2024-2-4",
+                  "localizedDescription": "(iOS 16+) Added Manual app shortcut, which allows you to configure the level of each LEDs separately (for Quad-LEDs devices only)\n(iOS 16+) Added All Off app shortcut, which turns off all LEDs\nAll On shortcut will now turn on the single white LED on Dual-LEDs devices",
+                  "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
