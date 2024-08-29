@@ -49,6 +49,27 @@
                 }
               ],
             "appPermissions": {}
+        },
+        {
+            "name": "Dopamine",
+            "bundleIdentifier": "com.opa334.Dopamine",
+            "developerName": "Opa334",
+            "subtitle": "A jailbreak for iOS 15-16.5",
+            "localizedDescription": "A jailbreak for iOS 15-16.6.1",
+            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+            "tintColor": "#45f7a4",
+            "screenshotURLs": [],
+            "versions": [
+                {
+                  "version": "2.2.2",
+                  "date": "2024-2-4",
+                  "localizedDescription": "Stop redirecting all execve calls to posix_spawn, fixes issues with certain sandbox profiles (e.g. configd) that block posix_spawn but allow execve, fixes WPA2/3 ENTERPRISE networks not working (these issues started in 2.2 but were not a regression, in earlier versions the exec call was not hooked properly which is why this wasn't noticed before)",
+                  "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "16.7"
+                }
+              ],
+            "appPermissions": {}
         }
     ],
     "news": []
