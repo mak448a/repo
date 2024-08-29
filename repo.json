@@ -62,11 +62,42 @@
             "versions": [
                 {
                   "version": "2.2.2",
-                  "date": "2024-2-4",
+                  "date": "2024-8-10",
                   "localizedDescription": "Stop redirecting all execve calls to posix_spawn, fixes issues with certain sandbox profiles (e.g. configd) that block posix_spawn but allow execve, fixes WPA2/3 ENTERPRISE networks not working (these issues started in 2.2 but were not a regression, in earlier versions the exec call was not hooked properly which is why this wasn't noticed before)",
                   "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
                   "minOSVersion": "15.0",
                   "maxOSVersion": "16.7"
+                }
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "YTLitePlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YTLitePlus",
+            "subtitle": "YouTube with AdBlock, downloader, and more tweaks!",
+            "localizedDescription": "YouTube with AdBlock, downloader, and more tweaks!",
+            "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+            "tintColor": "#45f7a4",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/1.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/2.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/3.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/4.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/5.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/6.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/7.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/8.png",
+                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/9.png",
+            ],
+            "versions": [
+                {
+                  "version": "19.22.6",
+                  "date": "2024-1-1",
+                  "localizedDescription": "Not sure what the changelog was. I'm not sure when this was released.",
+                  "downloadURL": "https://files.catbox.moe/819wt5.ipa",
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
                 }
               ],
             "appPermissions": {}
