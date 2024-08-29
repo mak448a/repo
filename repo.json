@@ -101,9 +101,8 @@
                 }
               ],
             "appPermissions": {}
-        }
-    ],
-    {
+        },
+        {
             "name": "Flappy Bird",
             "bundleIdentifier": "org.brandonplank.flappybird",
             "developerName": "Brandon Plank",
@@ -112,9 +111,9 @@
             "iconURL": "https://raw.githubusercontent.com/brandonplank/flappybird/main/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/152.png",
             "tintColor": "#45f7a4",
             "screenshotURLs": [
-                  "https://i.imgur.com/nIq1VVv.png",
-                  "https://i.imgur.com/TZBdg7M.png",
-                  "https://i.imgur.com/41u9JUh.png"
+                "https://i.imgur.com/nIq1VVv.png",
+                "https://i.imgur.com/TZBdg7M.png",
+                "https://i.imgur.com/41u9JUh.png"
             ],
             "versions": [
                 {
@@ -127,6 +126,7 @@
                 }
               ],
             "appPermissions": {}
-        },
+        }
+    ],
     "news": []
   }
