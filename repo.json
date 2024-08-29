@@ -101,6 +101,31 @@
                 }
               ],
             "appPermissions": {}
+        },
+        {
+            "name": "FlappyBird",
+            "bundleIdentifier": "org.brandonplank.flappybird",
+            "developerName": "Brandon Plank",
+            "subtitle": "FlappyBird clone written in Swift",
+            "localizedDescription": "FlappyBird clone written in Swift",
+            "iconURL": "https://raw.githubusercontent.com/brandonplank/flappybird/main/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/152.png",
+            "tintColor": "#45f7a4",
+            "screenshotURLs": [
+                "https://i.imgur.com/nIq1VVv.png",
+                "https://i.imgur.com/TZBdg7M.png",
+                "https://i.imgur.com/41u9JUh.png"
+            ],
+            "versions": [
+                {
+                  "version": "4.3",
+                  "date": "2022-6-14",
+                  "localizedDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
+                  "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "16.7"
+                }
+              ],
+            "appPermissions": {}
         }
     ],
     "news": []
