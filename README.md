@@ -2,7 +2,7 @@
 
 This repo contains apps from various authors. To maintain safety, they are sourced directly from their GitHub pages.
 
-Please open an issue or a pull request to add more!
+Please open an issue or a pull request to add more or update!
 
 Apps:
 - YTLitePlus
