@@ -1,132 +1,97 @@
 {
-    "name": "mak448a's Source",
-    "subtitle": "Apps from their original sources!",
-    "description": "A source with many apps!",
-    "iconURL": "https://avatars.githubusercontent.com/u/94062293?v=4&size=128",
-    "headerURL": "https://avatars.githubusercontent.com/u/94062293?v=4&size=128",
-    "website": "https://mak448a.is-a.dev",
-    "tintColor": "#45f7a4",
-    "featuredApps": [],
-    "apps": [
+  "name": "mak448a's Source",
+  "subtitle": "Apps from their original sources!",
+  "description": "A source with many apps!",
+  "iconURL": "https://avatars.githubusercontent.com/u/94062293?v=4&size=128",
+  "headerURL": "https://avatars.githubusercontent.com/u/94062293?v=4&size=128",
+  "website": "https://mak448a.is-a.dev",
+  "tintColor": "#45f7a4",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "AppStore++",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/AppStorePlusPlus.jpg",
+      "tintColor": "#45f7a4",
+      "versions": [
         {
-            "name": "AppStore++",
-            "bundleIdentifier": "com.cokepokes.AppStorePlus",
-            "developerName": "CokePokes",
-            "subtitle": "Downgrade/Upgrade apps!",
-            "localizedDescription": "AppStore++ is a TrollStore app that allows you to upgrade and download apps. This was originally a tweak that you could install on your iDevices.",
-            "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/AppStorePlusPlus.jpg",
-            "tintColor": "#45f7a4",
-            "screenshotURLs": [],
-            "versions": [
-                {
-                  "version": "1.0.3",
-                  "date": "2022-9-22",
-                  "localizedDescription": "Changes: Ability to download AppStore++ updates to install in TrollStore",
-                  "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "TrollLEDs",
-            "bundleIdentifier": "com.ps.TrollLEDs",
-            "developerName": "PoomSmart",
-            "subtitle": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
-            "localizedDescription": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
-            "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/TrollLEDs.png",
-            "tintColor": "#45f7a4",
-            "screenshotURLs": [],
-            "versions": [
-                {
-                  "version": "1.8.0",
-                  "date": "2024-2-4",
-                  "localizedDescription": "(iOS 16+) Added Manual app shortcut, which allows you to configure the level of each LEDs separately (for Quad-LEDs devices only)\n(iOS 16+) Added All Off app shortcut, which turns off all LEDs\nAll On shortcut will now turn on the single white LED on Dual-LEDs devices",
-                  "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "Dopamine",
-            "bundleIdentifier": "com.opa334.Dopamine",
-            "developerName": "Opa334",
-            "subtitle": "A jailbreak for iOS 15-16.6.1",
-            "localizedDescription": "Dopamine is a jailbreak for iOS 15-16.6.1. You can install it through TrollStore, Sideloadly, and more!",
-            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
-            "tintColor": "#45f7a4",
-            "screenshotURLs": [],
-            "versions": [
-                {
-                  "version": "2.2.2",
-                  "date": "2024-8-10",
-                  "localizedDescription": "Stop redirecting all execve calls to posix_spawn, fixes issues with certain sandbox profiles (e.g. configd) that block posix_spawn but allow execve, fixes WPA2/3 ENTERPRISE networks not working (these issues started in 2.2 but were not a regression, in earlier versions the exec call was not hooked properly which is why this wasn't noticed before)",
-                  "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
-                  "minOSVersion": "15.0",
-                  "maxOSVersion": "16.7"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "YTLitePlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "YTLitePlus",
-            "subtitle": "YouTube with AdBlock, downloader, and more tweaks!",
-            "localizedDescription": "YouTube with AdBlock, downloader, and more tweaks!",
-            "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-            "tintColor": "#45f7a4",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/1.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/2.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/3.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/4.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/5.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/6.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/7.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/8.png",
-                "https://raw.githubusercontent.com/YTLitePlus/Assets/main/Screenshots/9.png"
-            ],
-            "versions": [
-                {
-                  "version": "19.22.6",
-                  "date": "2024-1-1",
-                  "localizedDescription": "Not sure what the changelog was. I'm not sure when this was released.",
-                  "downloadURL": "https://files.catbox.moe/819wt5.ipa",
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "FlappyBird",
-            "bundleIdentifier": "org.brandonplank.flappybird",
-            "developerName": "Brandon Plank",
-            "subtitle": "FlappyBird clone written in Swift",
-            "localizedDescription": "FlappyBird clone written in Swift",
-            "iconURL": "https://raw.githubusercontent.com/brandonplank/flappybird/main/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/152.png",
-            "tintColor": "#45f7a4",
-            "screenshotURLs": [
-                "https://i.imgur.com/nIq1VVv.png",
-                "https://i.imgur.com/TZBdg7M.png",
-                "https://i.imgur.com/41u9JUh.png"
-            ],
-            "versions": [
-                {
-                  "version": "4.3",
-                  "date": "2022-6-14",
-                  "localizedDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
-                  "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-                  "minOSVersion": "15.0",
-                  "maxOSVersion": "16.7"
-                }
-              ],
-            "appPermissions": {}
+          "version": "1.0.3",
+          "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
+          "size": ""
         }
-    ],
-    "news": []
-  }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "com.ps.TrollLEDs",
+      "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/TrollLEDs.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "1.8.0",
+          "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "2.2.2",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "19.22.6",
+          "downloadURL": "https://files.catbox.moe/819wt5.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "FlappyBird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "iconURL": "https://raw.githubusercontent.com/brandonplank/flappybird/main/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/152.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "4.3",
+          "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "iconURL": "https://github.com/mak448a/repo/blob/main/icons/filza.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "4.0.2",
+          "downloadURL": "https://tigisoftware.com/download/Filza_NoURLScheme_4.0.0.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
