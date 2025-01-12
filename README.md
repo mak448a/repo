@@ -1,6 +1,6 @@
 # mak448a's Repo
 
-This repo contains apps from various authors. To maintain safety, they are sourced directly from their GitHub pages.
+This repo contains apps from various authors. To maintain safety, they are sourced directly from their GitHub pages/websites.
 
 Please open an issue or a pull request to add more or update!
 
