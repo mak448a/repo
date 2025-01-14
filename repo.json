@@ -35,7 +35,7 @@
             "developerName": "PoomSmart",
             "subtitle": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
             "localizedDescription": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
-            "iconURL": "https://raw.githubusercontent.com/PoomSmart/TrollLEDs/main/Resources/AppIcon60x60%402x.png",
+            "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/TrollLEDs.png",
             "tintColor": "#45f7a4",
             "screenshotURLs": [],
             "versions": [
