@@ -132,7 +132,7 @@
                   "minOSVersion": "15.0",
                   "maxOSVersion": "16.7"
                 }
-              ],
+            ],
             "appPermissions": {}
         }
     ],
