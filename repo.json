@@ -92,8 +92,16 @@
             ],
             "versions": [
                 {
-                  "version": "19.22.6",
-                  "date": "2024-1-1",
+                  "version": "v19.34.2-5.0.1",
+                  "date": "2024-9-3",
+                  "localizedDescription": "Updated YouTube and YTLite.",
+                  "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+                  "minOSVersion": "15.0",
+                  "maxOSVersion": "17.0"
+                },
+                {
+                  "version": "v19.34.2-5.0.1",
+                  "date": "2024-7-31",
                   "localizedDescription": "Not sure what the changelog was. I'm not sure when this was released.",
                   "downloadURL": "https://files.catbox.moe/819wt5.ipa",
                   "minOSVersion": "14.0",
