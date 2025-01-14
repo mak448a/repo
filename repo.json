@@ -134,6 +134,25 @@
                 }
             ],
             "appPermissions": {}
+        },
+        {
+            "name": "Filza",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "developerName": "TigiSoftware",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Files_App_icon_iOS.png",
+            "tintColor": "#45f7a4",
+            "localizedDescription": "An essential file manager!",
+            "versions": [
+                {
+                    "version": "4.0.0",
+                    "date": "2024-1-1",
+                    "downloadURL": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
+                    "localizedDescription": "No idea when this was released",
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {}
         }
     ],
     "news": []
