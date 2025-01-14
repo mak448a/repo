@@ -1,0 +1,102 @@
+{
+  "name": "mak448a's Source",
+  "subtitle": "Apps from their original sources!",
+  "description": "A source with many apps!",
+  "iconURL": "https://avatars.githubusercontent.com/u/94062293?v=4&size=128",
+  "headerURL": "https://avatars.githubusercontent.com/u/94062293?v=4&size=128",
+  "website": "https://mak448a.is-a.dev",
+  "tintColor": "#45f7a4",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "AppStore++",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/AppStorePlusPlus.jpg",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TrollLEDs",
+      "bundleIdentifier": "com.ps.TrollLEDs",
+      "iconURL": "https://raw.githubusercontent.com/mak448a/repo/main/icons/TrollLEDs.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "1.8.0",
+          "downloadURL": "https://github.com/PoomSmart/TrollLEDs/releases/download/1.8.0/TrollLEDs.tipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "2.2.2",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "v19.34.2-5.0.1",
+          "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+          "size": ""
+        },
+        {
+          "version": "v19.34.2-5.0.1",
+          "downloadURL": "https://files.catbox.moe/819wt5.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "FlappyBird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "iconURL": "https://raw.githubusercontent.com/brandonplank/flappybird/main/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/152.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "4.3",
+          "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Files_App_icon_iOS.png",
+      "tintColor": "#45f7a4",
+      "versions": [
+        {
+          "version": "4.0.0-b3",
+          "downloadURL": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
+          "size": ""
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
